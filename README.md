@@ -1,4 +1,4 @@
-'''Catch you, catch me'''
+## Catch you, catch me
 
 보고 싶어 볼 수 없어 이건 뭘까 쓸쓸한 기분
 
@@ -27,3 +27,11 @@
 내 마음을 받아줄래 세상에서 누구보다 정말 정말 진짜 진짜
 
 너·를·좋·아·해!
+
+### About me
+
+Learning pure and applied mathematics
+
+Minecraft modpack dev
+
+Contact : @CardCaptorCheri (Twitter), Cheri#0983 (Discord)
