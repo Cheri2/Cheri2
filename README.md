@@ -34,4 +34,6 @@ Learning pure and applied mathematics
 
 Minecraft modpack dev
 
+KRX stock trader
+
 Contact : @CardCaptorCheri (Twitter), Cheri#0983 (Discord)
